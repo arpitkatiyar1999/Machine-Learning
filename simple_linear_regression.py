@@ -1,5 +1,10 @@
 # Simple Linear Regression
 
+"""
+A Simple Salary Predictor model that predict the salery of a employee 
+given the years of experience he/she has.
+"""
+
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
